@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "name": "laptop",
+      "price": "1000",
+      "description": "asdadad",
+      "inStock": true,
+      "id": 1
+    },
+    {
+      "name": "pc",
+      "price": "1000",
+      "description": "asdsad",
+      "inStock": true,
+      "id": 2
+    },
+    {
+      "name": "adsad",
+      "price": "12123",
+      "description": "asdasdad",
+      "inStock": true,
+      "id": 3
+    },
+    {
+      "name": "new",
+      "price": "12321",
+      "description": "asdasdad new",
+      "inStock": true,
+      "id": 4
+    }
+  ]
+}
